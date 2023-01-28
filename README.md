@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Code-Hashirah
+- 👋 Hi, I’m Kabir
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on web dev projects
