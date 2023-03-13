@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kabir
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning 
+- 👀 I’m a web development
+- 🌱 NodeJs, Javascript, HTML, CSS 
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me ...
+- 📫 How to reach me kabirajibade@yahoo.com.
 
 <!---
 Code-Hashirah/Code-Hashirah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
