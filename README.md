@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kabir
 - 👀 I’m a web developer
-- 🌱 NodeJs, ReactJs,Javascript, HTML, CSS 
+- 🌱 NodeJs, ReactJs,Javascript, HTML, CSS,ORM,SQL
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me kabirajibade@yahoo.com.
 
