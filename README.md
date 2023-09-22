@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kabir
-- 👀 I’m a web developer
-- 🌱 NodeJs, ReactJs,Javascript, HTML, CSS,ORM,SQL
-- 💞️ I’m looking to collaborate on web dev projects
+- 👀 I’m a fullstack web developer
+- 🌱 Laravel,php,ExpressJs,NodeJs, ReactJs,Javascript, HTML, CSS,ORM,SQL
+- 💞️ I’m looking to work onsite, remotely or hybrid and collaborate on web dev projects
 - 📫 How to reach me kabirajibade@yahoo.com.
 
 <!---
