@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kabir
-- 👀 I’m a fullstack web developer
+- 👀 I’m a fullstack web developer and cyber security analyst
 - 🌱 Laravel,php,ExpressJs,NodeJs, ReactJs,Javascript, HTML, CSS,ORM,SQL
 - 💞️ I’m looking to work onsite, remotely or hybrid and collaborate on web dev projects
 - 📫 How to reach me kabirajibade@yahoo.com.
